@@ -1,0 +1,53 @@
+
+body {
+	
+}
+header {
+	background: #ffffff;
+	display: inline-block;
+}
+
+content {
+	clear: both;
+
+}
+
+.left-content {
+	background: green;
+	float: left;
+}
+
+.right-content {
+	background: yellow;
+	float: right;
+}
+
+#my-name {
+	background: #4aaaa5;
+	color: white;
+	float: left;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	padding: 5px 15px 5px 15px;
+
+}
+
+#contact-links {
+	float: right;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 15px;
+}
+
+#contact {
+}
+
+#about {
+}
+
+#portfolio {
+}
+
+
+footer {
+	background: orange;
+}
